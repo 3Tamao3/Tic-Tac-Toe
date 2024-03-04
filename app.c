@@ -50,7 +50,7 @@ int main (void)
 		printBoard();
 		printWinner(winner);
 		
-		printf("\nPlay again? (Y/N): ");
+		printf("\n Play again? (Y/N): ");
 		scanf("%c");
 		scanf("%c", &response);
 		response = toupper(response);
