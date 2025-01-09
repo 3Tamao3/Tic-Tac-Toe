@@ -7,6 +7,8 @@ Follow these steps to set up and run the Tic-Tac-Toe game:
    Open your terminal and run:  
    ```bash
    git clone git@github.com:3Tamao3/Tic-Tac-Toe.git
+   ```
+      ```bash
    cd Tic-Tac-Toe/
    ```
 
